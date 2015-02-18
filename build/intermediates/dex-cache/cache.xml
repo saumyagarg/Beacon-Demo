@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Userfiles\sgarg\AndroidStudioProjects\Android-SDK-master\EstimoteSDK\estimote-sdk-preview.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="27f1ef6b1d6ba4a1d982cf6bf86314a4f172a8ee">
+        <dex dex="D:\Userfiles\sgarg\AndroidStudioProjects\Android-SDK-master\Demos\build\intermediates\pre-dexed\debug\estimote-sdk-preview-3e0908799e93038b73c9d0eafe4230881269f4d8.jar" />
+    </item>
+
+</items>
